@@ -1,0 +1,12 @@
+#!/bin/sh
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=20
+#SBATCH --time=10:00:00
+#SBATCH --error=job.%J.err
+#SBATCH --output=job.%J.out
+#SBATCH --partition=gpu
+
+#cd $SLURM_SUBMIT_DIR
+#mpiexec - n $SLURM_NTASKS
+ ./topOp >out2.txt
+

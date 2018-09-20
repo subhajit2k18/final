@@ -1,0 +1,45 @@
+
+ Loop no :1
+Compliance = 0.000000
+Elements 200	100	100
+after initialisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In middle
+250000
+250000
+250000
+250000
+250000
+250000
+250000
+250000
+index 0
+index 250000
+index 500000
+index 750000
+index 1000000
+index 1250000
+index 1500000
+index 1750000
+reordered connectivity time :0.620112
+Elapsed time in cudaMemcpy 0.093161
+No of blocks :3907
+No of boundary nodes 30603
+No of blocks boundary 120
+
+ Second Compliance = 446465.276625

@@ -1,0 +1,116 @@
+
+ Loop no :1
+Compliance = 0.000000
+Elements 100	50	50
+after initialisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In middle
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+index 0
+index 31250
+index 62500
+index 93750
+index 125000
+index 156250
+index 187500
+index 218750
+reordered connectivity time :0.067343
+Elapsed time in cudaMemcpy 0.0125761
+No of blocks :489
+elapsed time in kernel :0.491508
+No of boundary nodes 7803
+No of blocks boundary 31
+
+ Second Compliance = 433821.029041
+Check workingOC working
+				FE :17.414727
+                              Check :1.572356
+                              OC :0.366276
+ Loop no :2
+Compliance = 433821.029041
+Elements 100	50	50
+after initialisation
+In middle
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+index 0
+index 31250
+index 62500
+index 93750
+index 125000
+index 156250
+index 187500
+index 218750
+reordered connectivity time :0.067451
+Elapsed time in cudaMemcpy 0.0121212
+No of blocks :489
+elapsed time in kernel :0.470531
+No of boundary nodes 7803
+No of blocks boundary 31
+
+ Second Compliance = 244286.220836
+Check workingOC working
+				FE :19.624010
+                              Check :1.590220
+                              OC :0.386224
+ Loop no :3
+Compliance = 244286.220836
+Elements 100	50	50
+after initialisation
+In middle
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+31250
+index 0
+index 31250
+index 62500
+index 93750
+index 125000
+index 156250
+index 187500
+index 218750
+reordered connectivity time :0.069183
+Elapsed time in cudaMemcpy 0.0123738
+No of blocks :489
+elapsed time in kernel :0.477618
+No of boundary nodes 7803
+No of blocks boundary 31
+
+ Second Compliance = 167428.677743
+Check workingOC working
+				FE :19.634957
+                              Check :1.586227
+                              OC :0.376113Time taken in 3 iteration: 56.675764 

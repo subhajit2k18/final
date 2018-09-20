@@ -1,0 +1,31 @@
+==32315== NVPROF is profiling process 32315, command: ./topOp
+
+ Loop no :1
+Compliance = 0.000000
+Elements 200	100	100
+after initialisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In middle
+250000
+250000
+250000
+250000
+250000
+250000
+250000
+250000
